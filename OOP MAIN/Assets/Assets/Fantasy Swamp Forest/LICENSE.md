@@ -1,0 +1,23 @@
+# License
+
+## Premium version:
+
+1. Build upon a part of games or similar use in any commercial or non-commercial project;
+2. Publish related to games, school projects, educational purposes, and similar;
+3. This asset pack can't be resold or redistributed even if modified;
+
+## Free version:
+
+1. Build upon a part of games or similar use in any commercial or non-commercial project;
+2. Publish related to games, school projects, educational purposes, and similar;
+3. You can't modify the assets;
+4. This asset pack can't be resold or redistributed even if modified;
+5. Credit appreciated;
+
+---
+
+## About
+
+- [Fantasy Swamp Forest] (https://theflavare.itch.io/forest-nature-fantasy-tileset)
+- [The Flavare] (https://theflavare.com/)
+- [Twitter/X] (https://twitter.com/TheFlavare)
